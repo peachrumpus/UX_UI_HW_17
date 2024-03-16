@@ -23,7 +23,7 @@ padding: 1%;
 
 width: 50%;
 margin-left: auto;
-
+list-style-type: none;
 }
 
 .heroImg{
@@ -45,5 +45,5 @@ margin: auto;
 
 vertical-align: top;
 margin: auto;
-
+list-style-type: none;
 }
